@@ -1,0 +1,6 @@
+1) bubble sort ~done
+2) selection sort ~done
+3) insertion sort
+4) merge sort
+5) quick sort
+
