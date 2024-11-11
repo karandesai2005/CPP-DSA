@@ -25,7 +25,7 @@ void preorder(Node *root)
 Node* insert(Node* root, int data)
 {
   if (root == NULL) return create(data);
-  else if (data <= root->data) {
+  else if (data <= root->data) {}
     root->left = insert(root->left,data);
   }
   else {

@@ -15,5 +15,4 @@ int main()
         int m;
         cout << "enter the values you wanna search: ";
         cin >> m;
-	
-		:
+}
